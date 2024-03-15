@@ -1,6 +1,6 @@
 Project Name ===> Make Art Model With Python - Version 1
 
-Program Name ===> Art Model Version 1
+Program Description ===> Art Model Version 1
 
 Programming Language ===> Python
 
