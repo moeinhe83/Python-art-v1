@@ -8,6 +8,6 @@ Description Of Files:
 
 art_v1.py => For Run ===> python art_v1.py
 
-Required packages for python ===> turtle / math
+Required packages For python ===> turtle / math
 
 turtle ==> to install => pip install turtle
